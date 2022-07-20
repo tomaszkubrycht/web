@@ -1,0 +1,13 @@
+@model test4.Models.Submission
+
+<form asp-action="Edit">
+    <fieldset class="idea-form">
+        @Html.HiddenFor(m => m.Created)
+        @Html.HiddenFor(m => m.UserId)
+        @Html.HiddenFor(m => m.UserName)
+        @Html.LabelFor(m => m.Content)
+        @Html.TextAreaFor(m => m.Content)
+        @Html.TextAreaFor(m=>m.nrid)
+        <input type="submit" name="Update" />
+    </fieldset>
+</form>

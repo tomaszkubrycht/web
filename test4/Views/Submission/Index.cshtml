@@ -1,0 +1,25 @@
+@model IEnumerable<test4.Models.Submission>
+
+<h1>List of Ideas</h1>
+
+@foreach (var sub in Model)
+{
+    <div class="idea">
+        <div class="grid-container">
+            <span>Created By: @sub.UserName on @sub.Created.ToLocalTime()</span>
+            <span>Last Updated: @sub.LastUpdated.ToLocalTime()</span>
+
+            <div class="grid-item">@sub.Content</div>
+            <div class="grid-item">
+                @sub.nrid
+            </div>
+        </div>
+        @if (User.Identity.IsAuthenticated && User.Claims.FirstOrDefault(c => c.Type == System.Security.Claims.ClaimTypes.NameIdentifier).Value == @sub.UserId)
+        {
+            <a asp-action="Edit" asp-route-id="@sub.Id">edit</a>
+            <a asp-action="Delete" asp-route-id="@sub.Id">delete</a>
+        }
+    </div>
+}
+<hr />
+<a class="create" asp-action="Create">Add New Idea</a>

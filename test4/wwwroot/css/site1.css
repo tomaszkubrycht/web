@@ -1,0 +1,2547 @@
+.mediaViewInfo {
+	--web-view-name: Landing Page;
+	--web-view-id: Landing_Page;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Landing_Page;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Landing_Page_Class {
+	position: absolute;
+	width: 1920px;
+	height: 4633px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Landing Page;
+	--web-view-id: Landing_Page;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.banner_Class {
+	position: absolute;
+	width: 1920px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Container-banner-top_Class {
+	fill: rgba(219,99,35,1);
+}
+.Container-banner-top {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+.Get_the_Bike_from_59mo_All_acc_Class {
+	left: 546px;
+	top: 21px;
+	position: absolute;
+	overflow: visible;
+	width: 863px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(248,248,248,1);
+	text-transform: uppercase;
+}
+.Product-hightlight_Class {
+	position: absolute;
+	width: 1640px;
+	height: 800px;
+	left: 140px;
+	top: 1390px;
+	overflow: visible;
+	padding: 0px;
+}
+.text_Class {
+	position: absolute;
+	width: 690px;
+	height: 503px;
+	left: 950px;
+	top: 102px;
+	overflow: visible;
+	padding: 0px;
+}
+.Button-Primary_Class {
+	position: absolute;
+	width: 249px;
+	height: 68px;
+	left: 0px;
+	top: 435px;
+	overflow: visible;
+	padding: 24px 64px 24px 64px;
+}
+.Button_Class {
+	fill: rgba(92,35,219,1);
+}
+.Button {
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+}
+.Explore_BikeS_Class {
+	left: 64px;
+	top: 24px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(248,248,248,1);
+	text-transform: uppercase;
+}
+.With_purchase_of_a_monthly_mem_Class {
+	left: 0px;
+	top: 351px;
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	white-space: nowrap;
+	line-height: 21px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+}
+.middle_Class {
+	position: absolute;
+	width: 612px;
+	height: 117px;
+	left: 0px;
+	top: 210px;
+	overflow: visible;
+	padding: 0px;
+}
+.right_Class {
+	position: absolute;
+	width: 192px;
+	height: 106px;
+	left: 420px;
+	top: 0px;
+	overflow: visible;
+}
+.n_30_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(51,51,51,1);
+}
+.mo_Class {
+	left: 100px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(51,51,51,1);
+}
+.For_60_months_Class {
+	left: 0px;
+	top: 76px;
+	position: absolute;
+	overflow: visible;
+	width: 193px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(51,51,51,1);
+	text-transform: uppercase;
+}
+.or_Class {
+	position: absolute;
+	width: 40px;
+	height: 112px;
+	left: 280px;
+	top: 5px;
+	overflow: visible;
+}
+.Line_Class {
+	fill: rgba(51,51,51,1);
+}
+.Line {
+	position: absolute;
+	overflow: visible;
+	width: 1px;
+	height: 112px;
+	left: 20px;
+	top: 0px;
+}
+.Or_b_Class {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 0px;
+	top: 36px;
+	overflow: visible;
+}
+.Container_Class {
+	fill: rgba(255,255,255,1);
+}
+.Container {
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+}
+.Or_ca_Class {
+	left: 5px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(51,51,51,1);
+	text-transform: uppercase;
+}
+.left_Class {
+	position: absolute;
+	width: 169px;
+	height: 106px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.n_1800_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 170px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(51,51,51,1);
+}
+.Pay_at_once_Class {
+	left: 0px;
+	top: 76px;
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(51,51,51,1);
+	text-transform: uppercase;
+}
+.The_ultimate_connected_cycling_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 691px;
+	height: 122px;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(51,51,51,1);
+}
+.Image_Placeholder__2_Class {
+	position: absolute;
+	width: 820px;
+	height: 800px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.image_Class {
+	position: absolute;
+	width: 820px;
+	height: 800px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.overlay_ce_Class {
+	fill: url(#overlay_ce);
+}
+.overlay_ce {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 820px;
+	height: 800px;
+	left: 0px;
+	top: 0px;
+}
+.Product-hightlight_cf_Class {
+	position: absolute;
+	width: 1640px;
+	height: 800px;
+	left: 140px;
+	top: 2270px;
+	overflow: visible;
+	padding: 0px;
+}
+.Image_Placeholder__3_Class {
+	position: absolute;
+	width: 820px;
+	height: 800px;
+	left: 820px;
+	top: 0px;
+	overflow: visible;
+}
+.image_ch_Class {
+	position: absolute;
+	width: 820px;
+	height: 800px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.overlay_cj_Class {
+	fill: url(#overlay_cj);
+}
+.overlay_cj {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 820px;
+	height: 800px;
+	left: 0px;
+	top: 0px;
+}
+.text_ck_Class {
+	position: absolute;
+	width: 690px;
+	height: 503px;
+	left: 0px;
+	top: 77px;
+	overflow: visible;
+	padding: 0px;
+}
+.Button-Primary_cl_Class {
+	position: absolute;
+	width: 254px;
+	height: 68px;
+	left: 0px;
+	top: 435px;
+	overflow: visible;
+	padding: 24px 64px 24px 64px;
+}
+.Button_cm_Class {
+	fill: rgba(92,35,219,1);
+}
+.Button_cm {
+	position: absolute;
+	overflow: visible;
+	width: 254px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+}
+.Shop_Reflects_Class {
+	left: 64px;
+	top: 24px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(248,248,248,1);
+	text-transform: uppercase;
+}
+.With_purchase_of_a_monthly_mem_co_Class {
+	left: 0px;
+	top: 351px;
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	white-space: nowrap;
+	line-height: 21px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+}
+.center_Class {
+	position: absolute;
+	width: 611px;
+	height: 117px;
+	left: 0px;
+	top: 210px;
+	overflow: visible;
+	padding: 0px;
+}
+.right_cq_Class {
+	position: absolute;
+	width: 192px;
+	height: 106px;
+	left: 419px;
+	top: 0px;
+	overflow: visible;
+}
+.n_20_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(51,51,51,1);
+}
+.mo_cs_Class {
+	left: 103px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(51,51,51,1);
+}
+.For_60_months_ct_Class {
+	left: 0px;
+	top: 76px;
+	position: absolute;
+	overflow: visible;
+	width: 193px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(51,51,51,1);
+	text-transform: uppercase;
+}
+.middle_cu_Class {
+	position: absolute;
+	width: 40px;
+	height: 112px;
+	left: 279px;
+	top: 5px;
+	overflow: visible;
+}
+.Line_cv_Class {
+	fill: rgba(51,51,51,1);
+}
+.Line_cv {
+	position: absolute;
+	overflow: visible;
+	width: 1px;
+	height: 112px;
+	left: 20px;
+	top: 0px;
+}
+.Or_cw_Class {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 0px;
+	top: 36px;
+	overflow: visible;
+}
+.Container_cx_Class {
+	fill: rgba(255,255,255,1);
+}
+.Container_cx {
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+}
+.Or_cy_Class {
+	left: 5px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(51,51,51,1);
+	text-transform: uppercase;
+}
+.left_cz_Class {
+	position: absolute;
+	width: 169px;
+	height: 106px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.n_1200_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 170px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(51,51,51,1);
+}
+.Pay_at_once_c_Class {
+	left: 0px;
+	top: 76px;
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(51,51,51,1);
+	text-transform: uppercase;
+}
+.A_personal_trainer_and_fitness_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 691px;
+	height: 122px;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(51,51,51,1);
+}
+.Container_c_Class {
+	fill: rgba(92,35,219,1);
+}
+.Container_c {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 560px;
+	left: 0px;
+	top: 3950px;
+}
+.footer_Class {
+	position: absolute;
+	width: 1920px;
+	height: 123px;
+	left: 0px;
+	top: 4510px;
+	overflow: visible;
+}
+.Footer_c_Class {
+	fill: rgba(51,51,51,1);
+}
+.Footer_c {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 123px;
+	left: 0px;
+	top: 0px;
+}
+.Menu_Class {
+	position: absolute;
+	width: 531px;
+	height: 20px;
+	left: 717px;
+	top: 47px;
+	overflow: visible;
+	padding: 0px;
+}
+.Accessories_Class {
+	left: 422px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(248,248,248,1);
+	text-transform: uppercase;
+}
+.Membership_Class {
+	left: 252px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(248,248,248,1);
+	text-transform: uppercase;
+}
+.Reflects_Class {
+	left: 110px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(248,248,248,1);
+	text-transform: uppercase;
+}
+.Bikes_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(248,248,248,1);
+	text-transform: uppercase;
+}
+.icons_Class {
+	position: absolute;
+	width: 88px;
+	height: 32px;
+	left: 1692px;
+	top: 42px;
+	overflow: visible;
+	padding: 0px;
+}
+.iconsocialinstagram_Class {
+	fill: rgba(248,248,248,1);
+}
+.iconsocialinstagram {
+	overflow: visible;
+	position: absolute;
+	width: 31.999px;
+	height: 32px;
+	left: 56.001px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Layer_2_Class {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Ebene_1_Class {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_27_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_27 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.icons_dg_Class {
+	position: absolute;
+	width: 153px;
+	height: 56px;
+	left: 140px;
+	top: 34px;
+	overflow: visible;
+	padding: 0px;
+}
+.Urgym_Class {
+	left: 64px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Barlow;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(248,248,248,1);
+	letter-spacing: 0.2px;
+	text-transform: lowercase;
+}
+.Logo_Class {
+	position: absolute;
+	width: 56px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Logo_dj_Class {
+	fill: rgba(248,248,248,1);
+}
+.Logo_dj {
+	overflow: visible;
+	position: absolute;
+	width: 56px;
+	height: 56.001px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.review_Class {
+	position: absolute;
+	width: 800px;
+	height: 292px;
+	left: 560px;
+	top: 4087px;
+	overflow: visible;
+	padding: 0px;
+}
+.n_Cara_Hoffman_Class {
+	left: 345px;
+	top: 272px;
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	white-space: nowrap;
+	line-height: 21px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(248,248,248,1);
+}
+.Im_so_thankful_for_this_bike_t_Class {
+	left: 0px;
+	top: 120px;
+	position: absolute;
+	overflow: visible;
+	width: 801px;
+	height: 120px;
+	text-align: center;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(248,248,248,1);
+}
+.stars_Class {
+	position: absolute;
+	width: 192px;
+	height: 32px;
+	left: 304px;
+	top: 64px;
+	overflow: visible;
+}
+.iconStar_Class {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Container-icon_Class {
+	fill: transparent;
+}
+.Container-icon {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+}
+.Star_Class {
+	fill: rgba(188,198,0,1);
+	stroke: rgba(188,198,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Star {
+	overflow: visible;
+	position: absolute;
+	width: 28.714px;
+	height: 28.704px;
+	left: 2.667px;
+	top: 2.667px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.iconStar_dr_Class {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 40px;
+	top: 0px;
+	overflow: visible;
+}
+.Container-icon_ds_Class {
+	fill: transparent;
+}
+.Container-icon_ds {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+}
+.Star_dt_Class {
+	fill: rgba(188,198,0,1);
+	stroke: rgba(188,198,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Star_dt {
+	overflow: visible;
+	position: absolute;
+	width: 28.714px;
+	height: 28.704px;
+	left: 2.667px;
+	top: 2.667px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.iconStar_du_Class {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 80px;
+	top: 0px;
+	overflow: visible;
+}
+.Container-icon_dv_Class {
+	fill: transparent;
+}
+.Container-icon_dv {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+}
+.Star_dw_Class {
+	fill: rgba(188,198,0,1);
+	stroke: rgba(188,198,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Star_dw {
+	overflow: visible;
+	position: absolute;
+	width: 28.714px;
+	height: 28.704px;
+	left: 2.667px;
+	top: 2.667px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.iconStar_dx_Class {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 120px;
+	top: 0px;
+	overflow: visible;
+}
+.Container-icon_dy_Class {
+	fill: transparent;
+}
+.Container-icon_dy {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+}
+.Star_dz_Class {
+	fill: rgba(188,198,0,1);
+	stroke: rgba(188,198,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Star_dz {
+	overflow: visible;
+	position: absolute;
+	width: 28.714px;
+	height: 28.704px;
+	left: 2.667px;
+	top: 2.667px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.iconStar_d_Class {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 160px;
+	top: 0px;
+	overflow: visible;
+}
+.Container-icon_d_Class {
+	fill: transparent;
+}
+.Container-icon_d {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+}
+.Star_d_Class {
+	fill: transparent;
+	stroke: rgba(188,198,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Star_d {
+	overflow: visible;
+	position: absolute;
+	width: 28.714px;
+	height: 28.704px;
+	left: 2.667px;
+	top: 2.667px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Text_d_Class {
+	left: 388px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 25px;
+	height: 48px;
+	text-align: left;
+	font-family: Barlow;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 72px;
+	color: rgba(248,248,248,1);
+}
+.value_prop_strip_Class {
+	position: absolute;
+	width: 1920px;
+	height: 350px;
+	left: 0px;
+	top: 960px;
+	overflow: visible;
+}
+.Container-benefit_Class {
+	fill: rgba(239,240,217,1);
+}
+.Container-benefit {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 350px;
+	left: 0px;
+	top: 0px;
+}
+.benefits_Class {
+	position: absolute;
+	width: 1080px;
+	height: 261px;
+	left: 420px;
+	top: 46px;
+	overflow: visible;
+	padding: 0px;
+}
+.benefits_d_Class {
+	position: absolute;
+	width: 1080px;
+	height: 198px;
+	left: 0px;
+	top: 63px;
+	overflow: visible;
+	padding: 0px;
+}
+.n__Class {
+	position: absolute;
+	width: 280px;
+	height: 198px;
+	left: 800px;
+	top: 0px;
+	overflow: visible;
+	padding: 0px;
+}
+.Classes_range_from_5_to_45_min_Class {
+	left: 0px;
+	top: 136px;
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	height: 62px;
+	line-height: 21px;
+	margin-top: -2.5px;
+	text-align: center;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+}
+.icon_Class {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	left: 80px;
+	top: 0px;
+	overflow: visible;
+}
+.icon-benefit_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(188,198,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.icon-benefit {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.039));
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+.iconstopwatch_Class {
+	position: absolute;
+	width: 56px;
+	height: 64px;
+	left: 32px;
+	top: 28px;
+	overflow: visible;
+}
+.Group_30_Class {
+	position: absolute;
+	width: 56px;
+	height: 64px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_29_Class {
+	position: absolute;
+	width: 56px;
+	height: 64px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_27_Class {
+	position: absolute;
+	width: 56px;
+	height: 64px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_16_Class {
+	position: absolute;
+	width: 56px;
+	height: 64px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_13_Class {
+	position: absolute;
+	width: 56px;
+	height: 13.465px;
+	left: 0px;
+	top: 10.502px;
+	overflow: visible;
+}
+.Group_10_Class {
+	position: absolute;
+	width: 13.476px;
+	height: 13.465px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_12_Class {
+	fill: rgba(248,248,248,1);
+}
+.Path_12 {
+	overflow: visible;
+	position: absolute;
+	width: 5.387px;
+	height: 9.774px;
+	transform: translate(0px, 0px) matrix(0.9998,0,0,0.9998,5.4235,3.2198) rotate(135deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Group_9_Class {
+	position: absolute;
+	width: 8.852px;
+	height: 8.843px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_13_Class {
+	fill: rgba(51,51,51,1);
+}
+.Path_13 {
+	overflow: visible;
+	position: absolute;
+	width: 8.852px;
+	height: 8.844px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_12_Class {
+	position: absolute;
+	width: 13.465px;
+	height: 13.461px;
+	left: 42.535px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_14_Class {
+	fill: rgba(248,248,248,1);
+}
+.Path_14 {
+	overflow: visible;
+	position: absolute;
+	width: 9.774px;
+	height: 5.387px;
+	transform: translate(0px, 0px) matrix(0.9998,0,0,0.9998,0.4731,5.4089) rotate(135deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Group_11_Class {
+	position: absolute;
+	width: 8.852px;
+	height: 8.843px;
+	left: 4.613px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_15_Class {
+	fill: rgba(51,51,51,1);
+}
+.Path_15 {
+	overflow: visible;
+	position: absolute;
+	width: 8.852px;
+	height: 8.844px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_15_Class {
+	position: absolute;
+	width: 52.458px;
+	height: 64px;
+	left: 1.771px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_16_Class {
+	fill: rgba(248,248,248,1);
+}
+.Path_16 {
+	overflow: visible;
+	position: absolute;
+	width: 6.473px;
+	height: 11.472px;
+	left: 22.992px;
+	top: 3.982px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_14_Class {
+	position: absolute;
+	width: 52.458px;
+	height: 52.409px;
+	left: 0px;
+	top: 11.591px;
+	overflow: visible;
+}
+.Ellipse_1_Class {
+	fill: rgba(248,248,248,1);
+	stroke: rgba(51,51,51,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 54.458px;
+	height: 54.409px;
+	left: 0px;
+	top: 0px;
+}
+.Ellipse_2_Class {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 42.367px;
+	height: 42.327px;
+	left: 5.045px;
+	top: 5.041px;
+}
+.Path_18_Class {
+	fill: rgba(51,51,51,1);
+}
+.Path_18 {
+	overflow: visible;
+	position: absolute;
+	width: 8.877px;
+	height: 7.572px;
+	left: 18.48px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_19_Class {
+	fill: rgba(51,51,51,1);
+}
+.Path_19 {
+	overflow: visible;
+	position: absolute;
+	width: 8.464px;
+	height: 7.572px;
+	left: 25.514px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_26_Class {
+	position: absolute;
+	width: 30.19px;
+	height: 30.162px;
+	left: 10.48px;
+	top: 25.307px;
+	overflow: visible;
+}
+.Group_18_Class {
+	position: absolute;
+	width: 2.621px;
+	height: 2.619px;
+	left: 4.849px;
+	top: 22.7px;
+	overflow: visible;
+}
+.Group_17_Class {
+	position: absolute;
+	width: 2.621px;
+	height: 2.619px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_20_Class {
+	fill: rgba(51,51,51,1);
+}
+.Path_20 {
+	overflow: visible;
+	position: absolute;
+	width: 2.621px;
+	height: 2.619px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_20_Class {
+	position: absolute;
+	width: 2.906px;
+	height: 1.932px;
+	left: 0px;
+	top: 11.694px;
+	overflow: visible;
+}
+.Group_19_Class {
+	position: absolute;
+	width: 2.906px;
+	height: 1.932px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_21_Class {
+	fill: rgba(51,51,51,1);
+}
+.Path_21 {
+	overflow: visible;
+	position: absolute;
+	width: 2.906px;
+	height: 1.932px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_23_Class {
+	position: absolute;
+	width: 25.342px;
+	height: 25.319px;
+	left: 4.849px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_21_Class {
+	position: absolute;
+	width: 2.621px;
+	height: 2.619px;
+	left: 22.722px;
+	top: 22.7px;
+	overflow: visible;
+}
+.Path_22_Class {
+	fill: rgba(51,51,51,1);
+}
+.Path_22 {
+	overflow: visible;
+	position: absolute;
+	width: 2.621px;
+	height: 2.619px;
+	left: -0.001px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_22_Class {
+	position: absolute;
+	width: 2.621px;
+	height: 2.618px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_23_Class {
+	fill: rgba(51,51,51,1);
+}
+.Path_23 {
+	overflow: visible;
+	position: absolute;
+	width: 2.621px;
+	height: 2.618px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_25_Class {
+	position: absolute;
+	width: 1.933px;
+	height: 2.903px;
+	left: 16.553px;
+	top: 27.259px;
+	overflow: visible;
+}
+.Group_24_Class {
+	position: absolute;
+	width: 1.933px;
+	height: 2.903px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_24_Class {
+	fill: rgba(51,51,51,1);
+}
+.Path_24 {
+	overflow: visible;
+	position: absolute;
+	width: 1.933px;
+	height: 2.903px;
+	left: 0.001px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_28_Class {
+	position: absolute;
+	width: 16.056px;
+	height: 16.041px;
+	left: 28px;
+	top: 21.755px;
+	overflow: visible;
+}
+.Path_25_Class {
+	fill: rgba(219,99,35,1);
+}
+.Path_25 {
+	overflow: visible;
+	position: absolute;
+	width: 16.056px;
+	height: 16.041px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_26_Class {
+	fill: rgba(219,99,35,1);
+}
+.Path_26 {
+	overflow: visible;
+	position: absolute;
+	width: 6.154px;
+	height: 12.64px;
+	left: 37.901px;
+	top: 25.155px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_3_Class {
+	fill: rgba(51,51,51,1);
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 4.885px;
+	height: 4.88px;
+	left: 25.558px;
+	top: 35.355px;
+}
+.n__fg_Class {
+	position: absolute;
+	width: 280px;
+	height: 198px;
+	left: 400px;
+	top: 0px;
+	overflow: visible;
+	padding: 0px;
+}
+.Broadcasting_from_studios_arou_Class {
+	left: 0px;
+	top: 136px;
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	height: 62px;
+	line-height: 21px;
+	margin-top: -2.5px;
+	text-align: center;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+}
+.icon_fi_Class {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	left: 80px;
+	top: 0px;
+	overflow: visible;
+}
+.icon-benefit_fj_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(188,198,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.icon-benefit_fj {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.039));
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+.iconStream_Class {
+	position: absolute;
+	width: 63.998px;
+	height: 64px;
+	left: 28px;
+	top: 28px;
+	overflow: visible;
+}
+.Icons_fl_Class {
+	position: absolute;
+	width: 44.901px;
+	height: 29.934px;
+	left: 9.475px;
+	top: 17.034px;
+	overflow: visible;
+}
+.Shape_Class {
+	fill: rgba(219,99,35,1);
+}
+.Shape {
+	overflow: visible;
+	position: absolute;
+	width: 44.901px;
+	height: 29.934px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Shape_fn_Class {
+	fill: rgba(219,99,35,1);
+}
+.Shape_fn {
+	overflow: visible;
+	position: absolute;
+	width: 41.694px;
+	height: 29.934px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Layer_10_Class {
+	position: absolute;
+	width: 63.998px;
+	height: 64px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_fp_Class {
+	fill: rgba(51,51,51,1);
+}
+.Shape_fp {
+	overflow: visible;
+	position: absolute;
+	width: 63.997px;
+	height: 64px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Shape_fq_Class {
+	fill: rgba(255,255,255,1);
+}
+.Shape_fq {
+	overflow: visible;
+	position: absolute;
+	width: 2.138px;
+	height: 16.036px;
+	left: 25.511px;
+	top: 23.449px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Shape_fr_Class {
+	fill: rgba(255,255,255,1);
+}
+.Shape_fr {
+	overflow: visible;
+	position: absolute;
+	width: 9.623px;
+	height: 16.037px;
+	left: 29.786px;
+	top: 23.448px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Shape_fs_Class {
+	fill: rgba(255,255,255,1);
+}
+.Shape_fs {
+	overflow: visible;
+	position: absolute;
+	width: 7.483px;
+	height: 16.036px;
+	left: 15.889px;
+	top: 23.449px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Shape_ft_Class {
+	fill: rgba(255,255,255,1);
+}
+.Shape_ft {
+	overflow: visible;
+	position: absolute;
+	width: 7.483px;
+	height: 16.036px;
+	left: 41.547px;
+	top: 23.449px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.n__fu_Class {
+	position: absolute;
+	width: 280px;
+	height: 198px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	padding: 0px;
+}
+.No_equipment_No_problem_Enjoy__Class {
+	left: 0px;
+	top: 136px;
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	height: 62px;
+	line-height: 21px;
+	margin-top: -2.5px;
+	text-align: center;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+}
+.icon_fw_Class {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	left: 80px;
+	top: 0px;
+	overflow: visible;
+}
+.icon-benefit_fx_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(188,198,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.icon-benefit_fx {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.039));
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+.iconstrong_Class {
+	position: absolute;
+	width: 64.001px;
+	height: 64px;
+	left: 28px;
+	top: 26px;
+	overflow: visible;
+}
+.Group_8_Class {
+	position: absolute;
+	width: 62.127px;
+	height: 62.053px;
+	left: 0.937px;
+	top: 1.01px;
+	overflow: visible;
+}
+.Path_4_Class {
+	fill: rgba(255,218,170,1);
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 62.127px;
+	height: 62.053px;
+	left: 0.001px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5_Class {
+	fill: rgba(248,248,248,1);
+}
+.Path_5 {
+	overflow: visible;
+	position: absolute;
+	width: 62.127px;
+	height: 62.053px;
+	left: 0.001px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_7_Class {
+	position: absolute;
+	width: 42.95px;
+	height: 62.053px;
+	left: 19.177px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_6_Class {
+	fill: rgba(248,248,248,1);
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 11.118px;
+	height: 15.175px;
+	left: 8.661px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_7_Class {
+	fill: rgba(248,248,248,1);
+}
+.Path_7 {
+	overflow: visible;
+	position: absolute;
+	width: 3.625px;
+	height: 41.407px;
+	left: 39.325px;
+	top: 20.645px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_8_Class {
+	fill: rgba(248,248,248,1);
+}
+.Path_8 {
+	overflow: visible;
+	position: absolute;
+	width: 4.581px;
+	height: 16.318px;
+	left: 0px;
+	top: 14.191px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_9_Class {
+	fill: rgba(219,99,35,1);
+}
+.Path_9 {
+	overflow: visible;
+	position: absolute;
+	width: 10.331px;
+	height: 14.515px;
+	left: 13.615px;
+	top: 8.196px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_10_Class {
+	fill: rgba(219,99,35,1);
+}
+.Path_10 {
+	overflow: visible;
+	position: absolute;
+	width: 3.693px;
+	height: 8.673px;
+	left: 20.253px;
+	top: 14.038px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_11_Class {
+	fill: rgba(51,51,51,1);
+}
+.Path_11 {
+	overflow: visible;
+	position: absolute;
+	width: 64.001px;
+	height: 64px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.This_changes_everything_Class {
+	left: 411px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 282px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Barlow;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(51,51,51,1);
+}
+.hero_Class {
+	position: absolute;
+	width: 1920px;
+	height: 800px;
+	left: 0px;
+	top: 160px;
+	overflow: visible;
+}
+.Image_Placeholder__1_Class {
+	position: absolute;
+	width: 1920px;
+	height: 800px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.image_gc_Class {
+	position: absolute;
+	width: 1920px;
+	height: 800px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.overlay_ge_Class {
+	fill: url(#overlay_ge);
+}
+.overlay_ge {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 800px;
+	left: 0px;
+	top: 240px;
+}
+.Transparency_gg_Class {
+	fill: url(#Transparency_gg);
+}
+.Transparency_gg {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 800px;
+	left: 0px;
+	top: 0px;
+}
+.hero_text_Class {
+	position: absolute;
+	width: 674px;
+	height: 488px;
+	left: 140px;
+	top: 136px;
+	overflow: visible;
+	padding: 0px;
+}
+.Button-Primary_gi_Class {
+	position: absolute;
+	width: 213px;
+	height: 68px;
+	left: 0px;
+	top: 420px;
+	overflow: visible;
+	padding: 24px 64px 24px 64px;
+}
+.Button_gj_Class {
+	fill: rgba(92,35,219,1);
+}
+.Button_gj {
+	position: absolute;
+	overflow: visible;
+	width: 213px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+}
+.Shop_now_Class {
+	left: 64px;
+	top: 24px;
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(248,248,248,1);
+	text-transform: uppercase;
+}
+.You_can_now_choose_Splitit_at__Class {
+	filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+	left: 0px;
+	top: 220px;
+	position: absolute;
+	overflow: visible;
+	width: 675px;
+	height: 120px;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(248,248,248,1);
+}
+.Small_payments__big_gains_Class {
+	filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 675px;
+	height: 180px;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 72px;
+	color: rgba(248,248,248,1);
+}
+.header_Class {
+	position: absolute;
+	width: 1920px;
+	height: 88px;
+	left: 0px;
+	top: 72px;
+	overflow: visible;
+}
+.Container-header_Class {
+	fill: rgba(255,255,255,1);
+}
+.Container-header {
+	filter: drop-shadow(0px 1px 1px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1923px;
+	height: 91px;
+	left: 0px;
+	top: 0px;
+}
+.Menu_gp_Class {
+	position: absolute;
+	width: 531px;
+	height: 20px;
+	left: 707px;
+	top: 34px;
+	overflow: visible;
+	padding: 0px;
+}
+.Accessories_gq_Class {
+	left: 422px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+	text-transform: uppercase;
+}
+.Membership_gr_Class {
+	left: 252px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+	text-transform: uppercase;
+}
+.Reflects_gs_Class {
+	left: 110px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+	text-transform: uppercase;
+}
+.Bikes_gt_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+	text-transform: uppercase;
+}
+.right_gu_Class {
+	position: absolute;
+	width: 88px;
+	height: 32px;
+	left: 1692px;
+	top: 28px;
+	overflow: visible;
+	padding: 0px;
+}
+.iconCart_Class {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 56px;
+	top: 0px;
+	overflow: visible;
+}
+.Container-icon_gw_Class {
+	fill: rgba(255,255,255,1);
+}
+.Container-icon_gw {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+}
+.icon-Cart_Class {
+	position: absolute;
+	width: 30px;
+	height: 28px;
+	left: 1px;
+	top: 2px;
+	overflow: visible;
+}
+.Path_1_Class {
+	fill: rgba(51,51,51,1);
+	stroke: rgba(51,51,51,1);
+	stroke-width: 0.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 30.512px;
+	height: 20.736px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_2_Class {
+	fill: rgba(51,51,51,1);
+	stroke: rgba(51,51,51,1);
+	stroke-width: 0.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 7.068px;
+	height: 7.014px;
+	left: 9.382px;
+	top: 21.486px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_3_Class {
+	fill: rgba(51,51,51,1);
+	stroke: rgba(51,51,51,1);
+	stroke-width: 0.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 7.069px;
+	height: 7.014px;
+	left: 20.246px;
+	top: 21.486px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.iconaccount_Class {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Container-icon_g_Class {
+	fill: rgba(255,255,255,1);
+}
+.Container-icon_g {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+}
+.icon-Account_Class {
+	fill: rgba(51,51,51,1);
+}
+.icon-Account {
+	overflow: visible;
+	position: absolute;
+	width: 22.909px;
+	height: 28px;
+	left: 4.545px;
+	top: 2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.left_g_Class {
+	position: absolute;
+	width: 153px;
+	height: 56px;
+	left: 140px;
+	top: 16px;
+	overflow: visible;
+	padding: 0px;
+}
+.Urgym_g_Class {
+	left: 64px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Barlow;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(51,51,51,1);
+	letter-spacing: 0.2px;
+	text-transform: lowercase;
+}
+.Logo_g_Class {
+	position: absolute;
+	width: 56px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Logo_ha_Class {
+	fill: rgba(51,51,51,1);
+}
+.Logo_ha {
+	overflow: visible;
+	position: absolute;
+	width: 56px;
+	height: 56.001px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Social_Class {
+	position: absolute;
+	width: 1920px;
+	height: 800px;
+	left: 0px;
+	top: 3150px;
+	overflow: visible;
+}
+.Container_g_Class {
+	fill: rgba(247,247,247,1);
+}
+.Container_g {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 800px;
+	left: 0px;
+	top: 0px;
+}
+.grid_Class {
+	position: absolute;
+	width: 1640px;
+	height: 800px;
+	left: 140px;
+	top: 0px;
+	overflow: hidden;
+}
+.grid_hb_Class {
+	position: absolute;
+	width: 1640px;
+	height: 800px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	padding: 0px;
+}
+.bottom_Class {
+	position: absolute;
+	width: 1640px;
+	height: 400px;
+	left: 0px;
+	top: 400px;
+	overflow: visible;
+}
+.LP__Image_Placeholder__7_Class {
+	position: absolute;
+	width: 410px;
+	height: 400px;
+	left: 820px;
+	top: 0px;
+	overflow: visible;
+}
+.LP__Image_Placeholder__7_he_Class {
+	position: absolute;
+	width: 410px;
+	height: 400px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.LP__Image_Placeholder__6_Class {
+	position: absolute;
+	width: 410px;
+	height: 400px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.LP__Image_Placeholder__6_hg_Class {
+	position: absolute;
+	width: 410px;
+	height: 400px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.card_Class {
+	position: absolute;
+	width: 410px;
+	height: 400px;
+	left: 410px;
+	top: 0px;
+	overflow: visible;
+}
+.Content_Class {
+	fill: rgba(219,99,35,1);
+}
+.Content {
+	position: absolute;
+	overflow: visible;
+	width: 410px;
+	height: 400px;
+	left: 0px;
+	top: 0px;
+}
+.stack_Class {
+	position: absolute;
+	width: 314px;
+	height: 168px;
+	left: 48px;
+	top: 64px;
+	overflow: visible;
+	padding: 0px;
+}
+.Get_expert_coaching_and_dynami_Class {
+	left: 0px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 315px;
+	height: 120px;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(248,248,248,1);
+}
+.Top-Notch_Trainers_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 315px;
+	height: 30px;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(248,248,248,1);
+}
+.card_hm_Class {
+	position: absolute;
+	width: 410px;
+	height: 400px;
+	left: 1230px;
+	top: 0px;
+	overflow: visible;
+}
+.Content_hn_Class {
+	fill: rgba(219,99,35,1);
+}
+.Content_hn {
+	position: absolute;
+	overflow: visible;
+	width: 410px;
+	height: 400px;
+	left: 0px;
+	top: 0px;
+}
+.stack_ho_Class {
+	position: absolute;
+	width: 314px;
+	height: 138px;
+	left: 48px;
+	top: 64px;
+	overflow: visible;
+	padding: 0px;
+}
+.Join_any_of_our_regular_workou_Class {
+	left: 0px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 315px;
+	height: 90px;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(248,248,248,1);
+}
+.Challenge_yourself_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 315px;
+	height: 30px;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(248,248,248,1);
+}
+.top_Class {
+	position: absolute;
+	width: 1640px;
+	height: 400px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	padding: 0px;
+}
+.LP__Image_Placeholder__5_Class {
+	position: absolute;
+	width: 410px;
+	height: 400px;
+	left: 1230px;
+	top: 0px;
+	overflow: visible;
+}
+.LP__Image_Placeholder__5_ht_Class {
+	position: absolute;
+	width: 410px;
+	height: 400px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.card_hu_Class {
+	position: absolute;
+	width: 410px;
+	height: 400px;
+	left: 820px;
+	top: 0px;
+	overflow: visible;
+}
+.Content_hv_Class {
+	fill: rgba(219,99,35,1);
+}
+.Content_hv {
+	position: absolute;
+	overflow: visible;
+	width: 410px;
+	height: 400px;
+	left: 0px;
+	top: 0px;
+}
+.top_hw_Class {
+	position: absolute;
+	width: 314px;
+	height: 138px;
+	left: 48px;
+	top: 64px;
+	overflow: visible;
+	padding: 0px;
+}
+.From_beginner_to_pro_theres_a__Class {
+	left: 0px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 315px;
+	height: 90px;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(248,248,248,1);
+}
+.Difficulty_Level_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 315px;
+	height: 30px;
+	text-align: left;
+	font-family: Trade Gothic Next LT Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(248,248,248,1);
+}
+.video_Class {
+	position: absolute;
+	width: 820px;
+	height: 400px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.LP__Video_Placeholder__4_Class {
+	position: absolute;
+	width: 820px;
+	height: 400px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.LP__Video_Placeholder__4_h_Class {
+	position: absolute;
+	width: 820px;
+	height: 400px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.iconplay_Class {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	left: 370px;
+	top: 160px;
+	overflow: visible;
+}
+.Container_h_Class {
+	fill: rgba(188,198,0,1);
+}
+.Container_h {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 98px;
+	left: 0px;
+	top: 0px;
+}
+.Play_Class {
+	fill: rgba(248,248,248,1);
+}
+.Play {
+	overflow: visible;
+	position: absolute;
+	width: 27.979px;
+	height: 32px;
+	left: 28.011px;
+	top: 24px;
+	transform: matrix(1,0,0,1,0,0);
+}

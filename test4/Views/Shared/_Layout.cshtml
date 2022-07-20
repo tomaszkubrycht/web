@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Test4</title>
+
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body>
+    <header>
+
+        <nav>
+            <div class="navbar">
+                
+                <div class="topnav" id="myTopnav">
+                    <a href="#" class="links">Kubrycht.com</a>
+                    <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+                    <a class="nav-link" asp-controller="submission" asp-action="Index">Submission</a>
+                    <a class="nav-link" asp-controller="Plots" asp-action="Index">Plot</a>
+                    <a class="nav-link" asp-controller="Maps" asp-action="Index">Maps</a>
+                    <a href="#news">News</a>
+                    <a href="#contact">Contact</a>
+                    <div class="dropdown">
+                        <button class="dropbtn">
+                            Dropdown
+                            <i class="fa fa-caret-down"></i>
+                        </button>
+                        <div class="dropdown-content">
+                            <a href="#">Link 1</a>
+                            <a href="#">Link 2</a>
+                            <a href="#">Link 3</a>
+                        </div>
+                    </div>
+                    <a class="nav-link" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                    <a href="#contact">
+                        Contact
+                    </a>
+                    <div style="float:right;">
+                        @Html.Partial("_LoginPartial")
+                    </div>
+                    <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+
+                </div>
+                </div>
+        </nav>
+       
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/d3.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

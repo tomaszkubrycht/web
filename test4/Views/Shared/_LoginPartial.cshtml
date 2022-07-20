@@ -1,0 +1,23 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+
+    @if (User.Identity.IsAuthenticated)
+    {
+        <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; text-align:right ">
+            <li style="float: left;white-space:nowrap;">
+                
+               <p style="display: inline-block; color: white; text-align: center; padding: 0px 0px; text-decoration: none;"> Hello, @User.Identity.Name</p>
+                <a class="nav-link" style="display: inline-block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;" onclick="document.getElementById('logout_form').submit();" style="cursor: pointer;">Log out</a>
+            </li>
+        </ul>
+        <form asp-controller="Account" asp-action="Logout" method="post" id="logout_form"></form>
+    }
+    else
+    {
+        <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;" >
+            <li style="float: left;"><a style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;" asp-controller="Account" asp-action="Login">Log in</a></li>
+        </ul>
+    }
+
